@@ -1,0 +1,15 @@
+{
+  "name": "schema-validation",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle",
+    "test": "japa"
+  },
+  "devDependencies": {
+    "japa": "^1.0.6",
+    "japa-cli": "^1.0.1",
+    "microbundle": "^0.4.4"
+  }
+}
